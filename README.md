@@ -1,6 +1,8 @@
 # AsmithaSa-Portfolio
 
-This project is built using **React + Vite**.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+A personal portfolio built with Vite + React + Tailwind CSS...
 
 It provides a minimal setup to get React working in Vite with Hot Module Replacement (HMR) and ESLint configuration.
 
